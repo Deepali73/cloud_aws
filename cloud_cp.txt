@@ -7,7 +7,7 @@
 
 **Examples:**
     * Google Drive → Cloud Storage
-    * ChatGPT → Cloud AI 🤖
+    * ChatGPT → Cloud AI 
     * Swiggy → Cloud-based app
 
 **Why it hits hard:**
@@ -89,8 +89,8 @@
                 * Peak pe lag karta tha
                 * Maintenance high
        **Now (After Shift to AWS):**
-                * Auto scale during binge weekends 🍿
-                * Content delivery across continents 🌍
+                * Auto scale during binge weekends 
+                * Content delivery across continents 
                 * Infra tension = 0, focus = 100% on user experience
       
        **Netflix Cloud Stack:**
@@ -98,7 +98,7 @@
                 * S3 → Movie/Show Storage
                 * CloudFront → Fast Delivery
                 * DynamoDB + RDS → Databases
-                * IAM + KMS → Access & Security 🔐
+                * IAM + KMS → Access & Security 
 
 **Netflix generates 70% of global streaming traffic during prime time — powered purely by cloud.**
  "Netflix ne cable cutting nahi, server cutting kiya — aur jeet gaya."
